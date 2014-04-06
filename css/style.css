@@ -1,0 +1,9 @@
+body{
+	margin-bottom: 20px;
+	background-color: #FCFCFC;
+}
+
+a.list-group-item:hover{
+	background-color: #5BC0DE;
+	color: #FFF;
+}
